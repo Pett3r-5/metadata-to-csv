@@ -1,0 +1,11 @@
+number,title,author,created_at,merged_at,state,cycle time,reviews,has_description,additions,deletions
+264236,Exclude a couple more file schemes from chat attachments,roblourens,2025-08-31 17:57:26+00:00,2025-08-31 18:09:12+00:00,closed,0.2 horas,1,Sim,11,4
+264220,"Warn about global auto approve, rename setting",Tyriar,2025-08-31 13:11:23+00:00,2025-08-31 14:07:45+00:00,closed,0.94 horas,1,Sim,97,25
+264197,Update walkthrough editor options to open Welcome page,bhavyaus,2025-08-31 05:27:27+00:00,2025-08-31 08:05:51+00:00,closed,2.64 horas,1,Sim,9,13
+264185,Add first session date handling to welcome page logic,bhavyaus,2025-08-31 01:37:27+00:00,2025-08-31 02:02:15+00:00,closed,0.41 horas,1,Sim,17,1
+264180,Fixes for tool invocations/confirmations to work better with external agents,roblourens,2025-08-30 21:06:08+00:00,2025-08-30 21:42:08+00:00,closed,0.6 horas,1,Sim,57,28
+264179,Trigger relayout when chat editor becomeas active from background.,rebornix,2025-08-30 20:40:11+00:00,2025-08-30 21:23:35+00:00,closed,0.72 horas,1,Sim,6,0
+264176,Fix agentIdSilent,roblourens,2025-08-30 19:39:29+00:00,2025-08-30 19:56:59+00:00,closed,0.29 horas,1,Sim,3,3
+264158,debt - some node.js module import :lipstick:,bpasero,2025-08-30 12:43:41+00:00,2025-08-31 16:09:43+00:00,closed,27.43 horas,1,Não,15,15
+264156,"chat - reduce use of ""Copilot"" in human facing strings",bpasero,2025-08-30 12:28:23+00:00,2025-08-30 12:40:01+00:00,closed,0.19 horas,1,Sim,56,65
+264152,Revert handling of environment variables,Tyriar,2025-08-30 11:30:04+00:00,2025-08-30 11:44:59+00:00,closed,0.25 horas,1,Sim,3,113
